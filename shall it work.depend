@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1523640668 source:c:\users\pc\desktop\shall it work\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	"bmplib.cpp"
+
+1522247228 c:\users\pc\desktop\shall it work\bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1522247063 c:\users\pc\desktop\shall it work\bmplib.h
+
+1523988512 source:d:\fci\2nd semister grade 1\programing 1\assignments\assignment 4\assignment 4\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<cmath>
+	"bmplib.cpp"
+
+1522247228 d:\fci\2nd semister grade 1\programing 1\assignments\assignment 4\assignment 4\bmplib.cpp
+	<stdio.h>
+	<iostream>
+	<cstdlib>
+	"bmplib.h"
+	"unistd.h"
+
+1522247063 d:\fci\2nd semister grade 1\programing 1\assignments\assignment 4\assignment 4\bmplib.h
+
